@@ -13,3 +13,6 @@ def multiply(a, b):
     'aaa'
     """
     return a * b
+
+def add(a, b):
+    return a + b
