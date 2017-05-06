@@ -1,4 +1,4 @@
-from unnecessary_math import multiply
+from unnecessary_math import multiply, add
  
 def test_numbers_3_4():
     assert multiply(3,4) == 12 
