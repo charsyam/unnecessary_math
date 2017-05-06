@@ -18,4 +18,5 @@ from __future__ import unicode_literals
 
 from .unnecessary_math import (  # noqa
     multiply,
+    add,
 )
