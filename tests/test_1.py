@@ -11,3 +11,6 @@ def test_numbers_1_2():
 
 def test_numbers_1_minus_1():
     assert add(1,-1) == 0
+
+def test_numbers_1_1():
+    assert add(1,1) == 2
