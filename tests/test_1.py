@@ -8,3 +8,6 @@ def test_strings_a_3():
 
 def test_numbers_1_2():
     assert add(1,2) == 3
+
+def test_numbers_1_minus_1():
+    assert add(1,-1) == 0
